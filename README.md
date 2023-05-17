@@ -10,7 +10,7 @@
 [![Blog](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]
 
 
-![Cosme Teixeira Silva](https://github-readme-stats.vercel.app/api?CosmeTSilva=anuraghazra&show_icons=true&bg_color=00000000)
+![Cosme Teixeira Silva](https://github-readme-stats.vercel.app/api?username=CosmeTSilva&show_icons=true&bg_color=00000000)
 <!--
 
 **CosmeTSilva/CosmeTSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
